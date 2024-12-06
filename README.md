@@ -1,6 +1,11 @@
 # uci-09-typescript-terminal-vehicle-builder
 TypeScript command-line application that builds and uses cars to have additional options for motorbikes and trucks.
 
+
+[![Watch the video](https://img.youtube.com/vi/2CmUcuvpER8/maxresdefault.jpg)](https://youtu.be/2CmUcuvpER8)
+
+
+
 # 08 TypeScript and OOP: Vehicle Builder
 
 ## Your Task
